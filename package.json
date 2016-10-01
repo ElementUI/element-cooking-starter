@@ -14,7 +14,7 @@
   "dependencies": {
     "babel-polyfill": "*",
     "element-ui": "^1.0.0-rc.4",
-    "vue": "^2.0.0-rc.6"
+    "vue": "^2.0.1"
   },
   "devDependencies": {
     "cooking-vue2": "*"
